@@ -40,7 +40,7 @@
 
 #### Initial learning rate = 1e-11
 
-![.](https://github.com/VictoriaIL/SMOMI5/blob/master/exp_decay_warmup/A_train_b_n.PNG)![.](https://github.com/VictoriaIL/SMOMI5/blob/master/exp_decay_warmup/A_val_b_n.PNG)![.](https://github.com/VictoriaIL/SMOMI5/blob/master/exp_decay_warmup/L_train_b_n.PNG)![.](https://github.com/VictoriaIL/SMOMI5/blob/master/exp_decay_warmup/L_val_b_n.PNG)![.](https://github.com/VictoriaIL/SMOMI5/blob/master/exp_decay_warmup/lr_b_n.PNG)
+![.](https://github.com/VictoriaIL/SMOMI5/blob/master/exp_decay_warmup/A_train_a_n.PNG)![.](https://github.com/VictoriaIL/SMOMI5/blob/master/exp_decay_warmup/A_val_a_n.PNG)![.](https://github.com/VictoriaIL/SMOMI5/blob/master/exp_decay_warmup/L_train_a_n.PNG)![.](https://github.com/VictoriaIL/SMOMI5/blob/master/exp_decay_warmup/L_val_a_n.PNG)![.](https://github.com/VictoriaIL/SMOMI5/blob/master/exp_decay_warmup/lr_a_n.PNG)
 
 
 
