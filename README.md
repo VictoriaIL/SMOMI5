@@ -1,6 +1,9 @@
 # SMOMI5
 
+В пятой лабораторной работе использовалась нейросеть VGG16, обученная на imagenet, с обученным классификатором в 3-ей лабораторной, обучаемая с методами аугментации данных. 
+
 ### Step decay
+   
 #### Initial learning rate = 1e-10
  
 ![.](https://github.com/VictoriaIL/SMOMI5/blob/master/step_decay/A_train_a.PNG)![.](https://github.com/VictoriaIL/SMOMI5/blob/master/step_decay/A_val_a.PNG)![.](https://github.com/VictoriaIL/SMOMI5/blob/master/step_decay/L_train_a.PNG)![.](https://github.com/VictoriaIL/SMOMI5/blob/master/step_decay/L_val_a.PNG)![.](https://github.com/VictoriaIL/SMOMI5/blob/master/step_decay/lr_a.PNG)
